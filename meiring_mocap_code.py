@@ -6,7 +6,6 @@ Created on Tue Nov 19 11:53:38 2019
 @author: meiringhe
 
 This code will record continuous video of the joint of interest from a webcam.
-this change is to test github
 """
 
 # import needed libraries - OpenCV (cv2), others?
