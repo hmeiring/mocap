@@ -30,5 +30,6 @@ while (keypressed != 27):
     # wait for button press
     keypressed = cv2.waitKey(1)
 
-# save the image and/or destroy windows 
+# release image and destroy windows 
+cap.release()
 cv2.destroyAllWindows()
